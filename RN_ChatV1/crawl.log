@@ -1,0 +1,199 @@
+DEBUG	2018-12-06 18:36:11,519	0	server.ServerEntity	[main]	Server starting..
+DEBUG	2018-12-06 18:36:11,522	3	server.ServerEntity	[main]	Server managing only room (Room)
+DEBUG	2018-12-06 18:36:11,524	5	server.ServerEntity	[main]	Server startet on 0.0.0.0
+INFO	2018-12-06 18:36:16,997	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-06 18:36:16,999	5480	server.ConnectedClient	[main]	/127.0.0.1
+DEBUG	2018-12-06 18:36:17,193	196	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-06 18:36:17,194	197	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-06 18:36:17,404	5885	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-06 18:36:17,404	5885	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-06 18:36:17,421	5902	server.ChatRoom	[main]	Room [Room] <<< 18:36:17 Mesut3 has entered the room Room
+DEBUG	2018-12-06 18:36:19,046	7527	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-06 18:36:19,048	7529	server.ChatRoom	[Thread-0]	Room [Room] <<< 18:36:19 Mesut3: Test
+DEBUG	2018-12-06 18:36:57,916	46397	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-06 18:36:57,917	46398	server.ChatRoom	[Thread-0]	Room [Room] <<< 18:36:57 Mesut3: LOGUT
+DEBUG	2018-12-06 18:37:00,146	48627	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-06 18:37:00,146	48627	server.ConnectedClient	[Thread-0]	>>601_User: Mesut3 left Chat!
+DEBUG	2018-12-06 18:37:00,146	48627	server.ConnectedClient	[Thread-0]	Mesut3 is leaving Room
+DEBUG	2018-12-06 18:37:25,028	0	server.ServerEntity	[main]	Server starting..
+DEBUG	2018-12-06 18:37:25,031	3	server.ServerEntity	[main]	Server managing only room (Room)
+DEBUG	2018-12-06 18:37:25,032	4	server.ServerEntity	[main]	Server startet on 0.0.0.0
+INFO	2018-12-06 18:37:29,332	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-06 18:37:29,335	4307	server.ConnectedClient	[main]	/127.0.0.1
+DEBUG	2018-12-06 18:37:29,535	203	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-06 18:37:29,535	203	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-06 18:37:29,727	4699	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-06 18:37:29,727	4699	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-06 18:37:29,742	4714	server.ChatRoom	[main]	Room [Room] <<< 18:37:29 Mesut3 has entered the room Room
+DEBUG	2018-12-06 18:37:29,769	437	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:37:29,769	437	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:37:33,697	8669	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-06 18:37:33,699	8671	server.ChatRoom	[Thread-0]	Room [Room] <<< 18:37:33 Mesut3: Ttest
+DEBUG	2018-12-06 18:37:33,699	4367	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:37:52,961	27933	server.ConnectedClient	[main]	/127.0.0.1
+INFO	2018-12-06 18:37:52,962	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-06 18:37:53,159	197	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-06 18:37:53,159	197	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-06 18:37:53,159	28131	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-06 18:37:53,159	28131	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-06 18:37:53,160	28132	server.ChatRoom	[main]	Room [Room] <<< 18:37:53 Mesut2 has entered the room Room
+DEBUG	2018-12-06 18:37:53,160	23828	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:37:53,184	222	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:37:53,184	222	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:37:55,095	30067	server.ConnectedClient	[Thread-1]	>>104_Message empfangen
+DEBUG	2018-12-06 18:37:55,095	30067	server.ChatRoom	[Thread-1]	Room [Room] <<< 18:37:55 Mesut2: Test
+DEBUG	2018-12-06 18:37:55,096	2134	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:37:55,096	25764	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:38:13,710	48682	server.ConnectedClient	[Thread-1]	>>104_Message empfangen
+DEBUG	2018-12-06 18:38:13,711	48683	server.ChatRoom	[Thread-1]	Room [Room] <<< 18:38:13 Mesut2: Hallo
+DEBUG	2018-12-06 18:38:13,711	20749	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:38:13,711	44379	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:38:16,008	50980	server.ConnectedClient	[Thread-1]	>>104_Message empfangen
+DEBUG	2018-12-06 18:38:16,008	50980	server.ChatRoom	[Thread-1]	Room [Room] <<< 18:38:16 Mesut2: Test
+DEBUG	2018-12-06 18:38:16,009	23047	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:38:16,009	46677	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:38:19,078	54050	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-06 18:38:19,078	54050	server.ChatRoom	[Thread-0]	Room [Room] <<< 18:38:19 Mesut3: Test
+DEBUG	2018-12-06 18:38:19,079	26117	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:38:19,079	49747	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:39:06,860	101832	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-06 18:39:06,865	101837	server.ChatRoom	[Thread-0]	Room [Room] <<< 18:39:06 Mesut3: HALLO1
+DEBUG	2018-12-06 18:39:06,867	73905	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:39:06,868	97536	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 18:41:09,917	1	server.ServerEntity	[main]	Server starting..
+DEBUG	2018-12-06 18:41:09,920	4	server.ServerEntity	[main]	Server managing only room (Room)
+DEBUG	2018-12-06 18:41:09,922	6	server.ServerEntity	[main]	Server startet on 0.0.0.0
+INFO	2018-12-06 18:41:14,711	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-06 18:41:14,712	1	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@5bed2ccd
+DEBUG	2018-12-06 18:41:14,713	4797	server.ConnectedClient	[main]	/127.0.0.1
+DEBUG	2018-12-06 18:41:14,902	191	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-06 18:41:14,902	191	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-06 18:41:15,099	5183	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-06 18:41:15,099	5183	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-06 18:41:15,099	5183	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@54318a7a
+DEBUG	2018-12-06 18:41:15,116	5200	server.ChatRoom	[main]	Room [Room] <<< 18:41:15 Mesut2 has entered the room Room
+DEBUG	2018-12-06 18:41:15,116	5200	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@54318a7a
+DEBUG	2018-12-06 18:41:15,140	429	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:41:15,141	430	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:41:19,912	5201	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@5bed2ccd
+DEBUG	2018-12-06 18:41:19,914	9998	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-06 18:41:19,916	10000	server.ChatRoom	[Thread-0]	Room [Room] <<< 18:41:19 Mesut2: Test
+DEBUG	2018-12-06 18:41:19,916	10000	client.ServerListener	[Thread-0]	Ich bin java.io.ObjectOutputStream@54318a7a
+DEBUG	2018-12-06 18:41:19,918	5207	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:41:31,021	21105	server.ConnectedClient	[main]	/127.0.0.1
+INFO	2018-12-06 18:41:31,022	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-06 18:41:31,024	2	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@301875e1
+DEBUG	2018-12-06 18:41:31,218	196	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-06 18:41:31,219	197	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-06 18:41:31,219	21303	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-06 18:41:31,219	21303	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-06 18:41:31,219	21303	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@20176742
+DEBUG	2018-12-06 18:41:31,220	21304	server.ChatRoom	[main]	Room [Room] <<< 18:41:31 Mesut3 has entered the room Room
+DEBUG	2018-12-06 18:41:31,220	21304	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@20176742
+DEBUG	2018-12-06 18:41:31,220	21304	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@54318a7a
+DEBUG	2018-12-06 18:41:31,220	16509	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 18:41:31,245	223	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@359e4725
+DEBUG	2018-12-06 18:41:31,245	223	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@359e4725
+DEBUG	2018-12-06 18:41:38,282	7260	client.ServerListener	[main]	Ich bin java.io.ObjectOutputStream@301875e1
+DEBUG	2018-12-06 18:41:38,284	28368	server.ConnectedClient	[Thread-1]	>>104_Message empfangen
+DEBUG	2018-12-06 18:41:38,284	28368	server.ChatRoom	[Thread-1]	Room [Room] <<< 18:41:38 Mesut3: Hallo, ich bin Mesu3
+DEBUG	2018-12-06 18:41:38,284	28368	client.ServerListener	[Thread-1]	Ich bin java.io.ObjectOutputStream@20176742
+DEBUG	2018-12-06 18:41:38,285	28369	client.ServerListener	[Thread-1]	Ich bin java.io.ObjectOutputStream@54318a7a
+DEBUG	2018-12-06 18:41:38,285	7263	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@359e4725
+DEBUG	2018-12-06 18:41:38,286	23575	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:08,676	0	server.ServerEntity	[main]	Server starting..
+DEBUG	2018-12-06 19:10:08,678	2	server.ServerEntity	[main]	Server managing only room (Room)
+DEBUG	2018-12-06 19:10:08,680	4	server.ServerEntity	[main]	Server startet on 0.0.0.0
+DEBUG	2018-12-06 19:10:19,704	0	server.ServerEntity	[main]	Server starting..
+DEBUG	2018-12-06 19:10:19,706	2	server.ServerEntity	[main]	Server managing only room (Room)
+DEBUG	2018-12-06 19:10:19,708	4	server.ServerEntity	[main]	Server startet on 0.0.0.0
+INFO	2018-12-06 19:10:24,956	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-06 19:10:24,960	5256	server.ConnectedClient	[main]	/127.0.0.1
+DEBUG	2018-12-06 19:10:25,175	219	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-06 19:10:25,175	219	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-06 19:10:25,373	5669	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-06 19:10:25,374	5670	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-06 19:10:25,389	5685	server.ChatRoom	[main]	Room [Room] <<< 19:10:25 Mesut1 has entered the room Room
+DEBUG	2018-12-06 19:10:25,414	458	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:25,414	458	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:32,151	12447	server.ConnectedClient	[main]	/127.0.0.1
+INFO	2018-12-06 19:10:32,152	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-06 19:10:32,356	204	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-06 19:10:32,357	205	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-06 19:10:32,357	12653	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-06 19:10:32,357	12653	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-06 19:10:32,358	12654	server.ChatRoom	[main]	Room [Room] <<< 19:10:32 Mesut2 has entered the room Room
+DEBUG	2018-12-06 19:10:32,358	7402	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:32,384	232	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 19:10:32,384	232	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 19:10:37,805	18101	server.ConnectedClient	[main]	/127.0.0.1
+INFO	2018-12-06 19:10:37,806	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-06 19:10:38,002	196	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-06 19:10:38,002	196	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-06 19:10:38,003	18299	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-06 19:10:38,003	18299	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-06 19:10:38,003	18299	server.ChatRoom	[main]	Room [Room] <<< 19:10:38 Mesut3 has entered the room Room
+DEBUG	2018-12-06 19:10:38,004	5852	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 19:10:38,004	13048	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:38,028	222	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:38,028	222	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:44,295	24591	server.ConnectedClient	[Thread-2]	>>104_Message empfangen
+DEBUG	2018-12-06 19:10:44,295	24591	server.ConnectedClient	[Thread-2]	Ich bin ConnectedClient: /127.0.0.1
+DEBUG	2018-12-06 19:10:44,299	6493	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:44,299	6493	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:44,300	6494	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:44,300	6494	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:49,310	29606	server.ConnectedClient	[Thread-1]	>>104_Message empfangen
+DEBUG	2018-12-06 19:10:49,310	29606	server.ConnectedClient	[Thread-1]	Ich bin ConnectedClient: /127.0.0.1
+DEBUG	2018-12-06 19:10:49,310	29606	server.ChatRoom	[Thread-1]	Room [Room] <<< 19:10:49 Mesut2: TEST
+DEBUG	2018-12-06 19:10:49,311	11505	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:49,311	17159	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 19:10:49,313	24357	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:50,071	30367	server.ConnectedClient	[Thread-1]	>>104_Message empfangen
+DEBUG	2018-12-06 19:10:50,072	30368	server.ConnectedClient	[Thread-1]	Ich bin ConnectedClient: /127.0.0.1
+DEBUG	2018-12-06 19:10:50,072	30368	server.ChatRoom	[Thread-1]	Room [Room] <<< 19:10:50 Mesut2: TEST
+DEBUG	2018-12-06 19:10:50,072	12266	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:50,072	17920	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 19:10:50,073	25117	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@64bb120d
+DEBUG	2018-12-06 19:10:51,565	31861	server.ConnectedClient	[Thread-1]	>>104_Message empfangen
+DEBUG	2018-12-06 19:10:51,565	31861	server.ConnectedClient	[Thread-1]	Ich bin ConnectedClient: /127.0.0.1
+DEBUG	2018-12-06 19:10:51,566	19414	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 19:10:51,566	19414	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 19:10:51,567	19415	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-06 19:10:51,567	19415	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:02,357	0	server.ServerEntity	[main]	Server starting..
+DEBUG	2018-12-08 21:10:02,362	5	server.ServerEntity	[main]	Server managing only room (Room)
+DEBUG	2018-12-08 21:10:02,364	7	server.ServerEntity	[main]	Server startet on 0.0.0.0
+INFO	2018-12-08 21:10:18,250	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-08 21:10:18,255	15898	server.ConnectedClient	[main]	/127.0.0.1
+DEBUG	2018-12-08 21:10:18,527	277	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-08 21:10:18,527	277	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-08 21:10:18,811	16454	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-08 21:10:18,812	16455	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-08 21:10:18,836	16479	server.ChatRoom	[main]	Room [Room] <<< 21:10:18 Mesut3 has entered the room Room
+DEBUG	2018-12-08 21:10:18,869	619	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:18,869	619	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:24,661	22304	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-08 21:10:24,661	22304	server.ConnectedClient	[Thread-0]	Ich bin ConnectedClient: /127.0.0.1
+DEBUG	2018-12-08 21:10:24,663	22306	server.ChatRoom	[Thread-0]	Room [Room] <<< 21:10:24 Mesut3: Hallo
+DEBUG	2018-12-08 21:10:24,664	6414	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:30,873	28516	server.ConnectedClient	[main]	/127.0.0.1
+INFO	2018-12-08 21:10:30,874	0	client.ClientEntity	[main]	>>100_localhost/127.0.0.1:5678
+DEBUG	2018-12-08 21:10:31,107	233	client.ClientEntity	[main]	>>102_Valid Username
+DEBUG	2018-12-08 21:10:31,107	233	client.ClientEntity	[main]	>>101_Logged in
+DEBUG	2018-12-08 21:10:31,107	28750	server.ConnectedClient	[main]	>>105_Handshake erfolgreich, Thread erstellt
+DEBUG	2018-12-08 21:10:31,107	28750	server.ChatRoom	[main]	>>103__Client ist dem Raum (Room) beigetreten
+DEBUG	2018-12-08 21:10:31,108	28751	server.ChatRoom	[main]	Room [Room] <<< 21:10:31 Mesut2 has entered the room Room
+DEBUG	2018-12-08 21:10:31,108	12858	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:31,130	256	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:31,131	257	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:37,893	35536	server.ConnectedClient	[Thread-1]	>>104_Message empfangen
+DEBUG	2018-12-08 21:10:37,893	35536	server.ConnectedClient	[Thread-1]	Ich bin ConnectedClient: /127.0.0.1
+DEBUG	2018-12-08 21:10:37,893	35536	server.ChatRoom	[Thread-1]	Room [Room] <<< 21:10:37 Mesut2: Bu chat3
+DEBUG	2018-12-08 21:10:37,894	7020	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:37,894	19644	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:44,665	42308	server.ConnectedClient	[Thread-0]	>>104_Message empfangen
+DEBUG	2018-12-08 21:10:44,665	42308	server.ConnectedClient	[Thread-0]	Ich bin ConnectedClient: /127.0.0.1
+DEBUG	2018-12-08 21:10:44,666	26416	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:44,666	26416	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
+DEBUG	2018-12-08 21:10:44,666	26416	client.ServerListener	[Thread-0]	Client_ServerListener client.ClientEntity@65694ee6
